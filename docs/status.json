@@ -1,121 +1,109 @@
 {
-  "checked": "2026-10-01T20:34:50+00:00",
+  "checked": "2026-10-01T21:30:48+00:00",
   "sources": [
     {
-      "checked": "2026-10-01T20:33:26+00:00",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Astolav.no%2Fnyheter+%28%22Orkdal+sjukehus%22+OR+%22Orkdal+DPS%22+OR+%22BUP+Orkanger%22%29&hl=no&gl=NO&ceid=NO:no",
+      "checked": "2026-10-01T21:30:40+00:00",
       "id": "stolav_news",
-      "items": 0,
+      "items": 5,
       "name": "St. Olavs hospital – nyheter",
-      "ok": false,
-      "seconds": 10.32
+      "ok": true,
+      "seconds": 3.62
     },
     {
-      "checked": "2026-10-01T20:33:36+00:00",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Astyreportal.helse-midt.no%2F1001+%28Orkdal+OR+Orkanger%29&hl=no&gl=NO&ceid=NO:no",
+      "checked": "2026-10-01T21:30:42+00:00",
       "id": "stolav_board",
       "items": 0,
       "name": "St. Olavs hospital – styrepapirer",
-      "ok": false,
-      "seconds": 9.03
+      "ok": true,
+      "seconds": 2.19
     },
     {
-      "checked": "2026-10-01T20:33:45+00:00",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Ahelse-midt.no%2Fnyheter+%28%22Orkdal+sjukehus%22+OR+%22St.+Olavs+hospital+Orkdal%22%29&hl=no&gl=NO&ceid=NO:no",
+      "checked": "2026-10-01T21:30:42+00:00",
       "id": "hmn_news",
       "items": 0,
       "name": "Helse Midt-Norge – nyheter",
-      "ok": false,
-      "seconds": 9.31
+      "ok": true,
+      "seconds": 0.64
     },
     {
-      "checked": "2026-10-01T20:33:56+00:00",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Astyreportal.helse-midt.no+%28%22Orkdal+sjukehus%22+OR+%22Orkdal+DPS%22%29&hl=no&gl=NO&ceid=NO:no",
+      "checked": "2026-10-01T21:30:44+00:00",
       "id": "hmn_board",
       "items": 0,
       "name": "Helse Midt-Norge – styrepapirer",
-      "ok": false,
-      "seconds": 10.89
+      "ok": true,
+      "seconds": 1.78
     },
     {
-      "checked": "2026-10-01T20:34:06+00:00",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Ahelse-midt.no%2F+siteassets+postjournal+%28Orkdal+OR+Orkanger%29&hl=no&gl=NO&ceid=NO:no",
+      "checked": "2026-10-01T21:30:45+00:00",
       "id": "hmn_postjournal",
       "items": 0,
       "name": "Helse Midt-Norge – offentlig postjournal",
-      "ok": false,
-      "seconds": 9.92
+      "ok": true,
+      "seconds": 0.9
     },
     {
-      "checked": "2026-10-01T20:34:11+00:00",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Ahelsetilsynet.no+%28%22Orkdal+sjukehus%22+OR+%22Orkdal+DPS%22+OR+%22BUP+Orkanger%22%29&hl=no&gl=NO&ceid=NO:no",
+      "checked": "2026-10-01T21:30:45+00:00",
       "id": "tilsyn_helsetilsynet",
       "items": 0,
       "name": "Helsetilsynet – tilsyn",
-      "ok": false,
-      "seconds": 5.43
+      "ok": true,
+      "seconds": 0.28
     },
     {
-      "checked": "2026-10-01T20:34:17+00:00",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Astatsforvalteren.no%2Ftrondelag+%28%22Orkdal+sjukehus%22+OR+%22Orkdal+DPS%22+OR+%22St.+Olavs+hospital%22%29&hl=no&gl=NO&ceid=NO:no",
+      "checked": "2026-10-01T21:30:46+00:00",
       "id": "tilsyn_statsforvalteren",
       "items": 0,
       "name": "Statsforvalteren i Trøndelag – tilsyn og vedtak",
-      "ok": false,
-      "seconds": 5.47
+      "ok": true,
+      "seconds": 0.19
     },
     {
-      "checked": "2026-10-01T20:34:22+00:00",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aukom.no+%28Orkdal+OR+%22St.+Olavs+hospital%22%29&hl=no&gl=NO&ceid=NO:no",
+      "checked": "2026-10-01T21:30:46+00:00",
       "id": "ukom",
       "items": 0,
       "name": "Ukom – undersøkelser om pasientsikkerhet",
-      "ok": false,
-      "seconds": 5.41
+      "ok": true,
+      "seconds": 0.23
     },
     {
-      "checked": "2026-10-01T20:34:28+00:00",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28site%3Aarbeidsplassen.nav.no+OR+site%3Awebcruiter.com%29+%28%22Orkdal+sjukehus%22+OR+%22KOVA+Orkdal%22+OR+%22Orkdal+DPS%22%29&hl=no&gl=NO&ceid=NO:no",
+      "checked": "2026-10-01T21:30:46+00:00",
       "id": "jobs",
       "items": 0,
       "name": "Arbeidsplassen og Webcruiter – stillinger",
-      "ok": false,
-      "seconds": 5.96
+      "ok": true,
+      "seconds": 0.25
     },
     {
-      "checked": "2026-10-01T20:34:34+00:00",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Adoffin.no+%28%22Orkdal+sjukehus%22+OR+%22Orkdal+sykehus%22%29&hl=no&gl=NO&ceid=NO:no",
+      "checked": "2026-10-01T21:30:46+00:00",
       "id": "doffin",
       "items": 0,
       "name": "Doffin – anskaffelser",
-      "ok": false,
-      "seconds": 5.79
+      "ok": true,
+      "seconds": 0.2
     },
     {
-      "checked": "2026-10-01T20:34:42+00:00",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Atjenester.helsenorge.no%2Fvelg-behandlingssted+%28%22Orkdal+sjukehus%22+OR+Orkanger%29&hl=no&gl=NO&ceid=NO:no",
+      "checked": "2026-10-01T21:30:47+00:00",
       "id": "waiting_times",
       "items": 0,
       "name": "Helsenorge – ventetider/behandlingssted",
-      "ok": false,
-      "seconds": 8.5
+      "ok": true,
+      "seconds": 0.24
     },
     {
-      "checked": "2026-10-01T20:34:43+00:00",
+      "checked": "2026-10-01T21:30:47+00:00",
       "id": "npe",
       "items": 0,
       "name": "Norsk pasientskadeerstatning – statistikk",
       "ok": true,
-      "seconds": 0.68
+      "seconds": 0.73
     },
     {
-      "checked": "2026-10-01T20:34:50+00:00",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aorkland.kommune.no+%28%22Orkdal+sjukehus%22+OR+%22Legevakten+i+Orkdalsregionen%22+OR+%22LiO%22%29&hl=no&gl=NO&ceid=NO:no",
+      "checked": "2026-10-01T21:30:48+00:00",
       "id": "lio_orkland",
-      "items": 0,
+      "items": 3,
       "name": "Orkland kommune – legevakt og samhandling",
-      "ok": false,
-      "seconds": 7.08
+      "ok": true,
+      "seconds": 0.23
     }
   ]
 }
