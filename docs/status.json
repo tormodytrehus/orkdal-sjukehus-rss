@@ -1,17 +1,17 @@
 {
-  "checked": "2026-10-14T02:47:51+00:00",
+  "checked": "2026-10-14T03:48:54+00:00",
   "sources": [
     {
-      "checked": "2026-10-14T02:46:46+00:00",
+      "checked": "2026-10-14T03:47:49+00:00",
       "id": "stolav_news",
       "items": 5,
       "name": "St. Olavs hospital – nyheter",
       "ok": true,
-      "seconds": 2.94
+      "seconds": 3.85
     },
     {
-      "checked": "2026-10-14T02:47:16+00:00",
-      "error": "HTTPSConnectionPool(host='styreportal.helse-midt.no', port=443): Max retries exceeded with url: /1001/SitePages/Saksdokumenter.aspx?web=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='styreportal.helse-midt.no', port=443) at 0x7fc8969242f0>, 'Connection to styreportal.helse-midt.no timed out. (connect timeout=30)'))",
+      "checked": "2026-10-14T03:48:19+00:00",
+      "error": "HTTPSConnectionPool(host='styreportal.helse-midt.no', port=443): Max retries exceeded with url: /1001/SitePages/Saksdokumenter.aspx?web=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='styreportal.helse-midt.no', port=443) at 0x7f881ca3cad0>, 'Connection to styreportal.helse-midt.no timed out. (connect timeout=30)'))",
       "id": "stolav_board",
       "items": 0,
       "name": "St. Olavs hospital – styrepapirer",
@@ -19,7 +19,7 @@
       "seconds": 30.19
     },
     {
-      "checked": "2026-10-14T02:47:17+00:00",
+      "checked": "2026-10-14T03:48:20+00:00",
       "id": "hmn_news",
       "items": 0,
       "name": "Helse Midt-Norge – nyheter",
@@ -27,31 +27,31 @@
       "seconds": 0.66
     },
     {
-      "checked": "2026-10-14T02:47:47+00:00",
+      "checked": "2026-10-14T03:48:51+00:00",
       "id": "hmn_board",
       "items": 0,
       "name": "Helse Midt-Norge – styrepapirer",
       "ok": true,
-      "seconds": 30.81
+      "seconds": 30.95
     },
     {
-      "checked": "2026-10-14T02:47:48+00:00",
+      "checked": "2026-10-14T03:48:51+00:00",
       "id": "hmn_postjournal",
       "items": 0,
       "name": "Helse Midt-Norge – offentlig postjournal",
       "ok": true,
-      "seconds": 0.88
+      "seconds": 0.92
     },
     {
-      "checked": "2026-10-14T02:47:49+00:00",
+      "checked": "2026-10-14T03:48:52+00:00",
       "id": "tilsyn_helsetilsynet",
       "items": 0,
       "name": "Helsetilsynet – tilsyn",
       "ok": true,
-      "seconds": 0.23
+      "seconds": 0.21
     },
     {
-      "checked": "2026-10-14T02:47:49+00:00",
+      "checked": "2026-10-14T03:48:52+00:00",
       "id": "tilsyn_statsforvalteren",
       "items": 0,
       "name": "Statsforvalteren i Trøndelag – tilsyn og vedtak",
@@ -59,31 +59,31 @@
       "seconds": 0.25
     },
     {
-      "checked": "2026-10-14T02:47:49+00:00",
+      "checked": "2026-10-14T03:48:52+00:00",
       "id": "ukom",
       "items": 0,
       "name": "Ukom – undersøkelser om pasientsikkerhet",
       "ok": true,
-      "seconds": 0.24
+      "seconds": 0.28
     },
     {
-      "checked": "2026-10-14T02:47:49+00:00",
+      "checked": "2026-10-14T03:48:53+00:00",
       "id": "jobs",
       "items": 0,
       "name": "Arbeidsplassen og Webcruiter – stillinger",
       "ok": true,
-      "seconds": 0.27
+      "seconds": 0.34
     },
     {
-      "checked": "2026-10-14T02:47:50+00:00",
+      "checked": "2026-10-14T03:48:53+00:00",
       "id": "doffin",
       "items": 0,
       "name": "Doffin – anskaffelser",
       "ok": true,
-      "seconds": 0.35
+      "seconds": 0.21
     },
     {
-      "checked": "2026-10-14T02:47:50+00:00",
+      "checked": "2026-10-14T03:48:53+00:00",
       "id": "waiting_times",
       "items": 0,
       "name": "Helsenorge – ventetider/behandlingssted",
@@ -91,7 +91,7 @@
       "seconds": 0.25
     },
     {
-      "checked": "2026-10-14T02:47:51+00:00",
+      "checked": "2026-10-14T03:48:54+00:00",
       "id": "npe",
       "items": 0,
       "name": "Norsk pasientskadeerstatning – statistikk",
@@ -99,12 +99,12 @@
       "seconds": 0.81
     },
     {
-      "checked": "2026-10-14T02:47:51+00:00",
+      "checked": "2026-10-14T03:48:54+00:00",
       "id": "lio_orkland",
       "items": 3,
       "name": "Orkland kommune – legevakt og samhandling",
       "ok": true,
-      "seconds": 0.24
+      "seconds": 0.25
     }
   ]
 }
