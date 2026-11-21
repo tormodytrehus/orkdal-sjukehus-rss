@@ -1,17 +1,17 @@
 {
-  "checked": "2026-11-21T02:21:31+00:00",
+  "checked": "2026-11-21T11:11:02+00:00",
   "sources": [
     {
-      "checked": "2026-11-21T02:20:25+00:00",
+      "checked": "2026-11-21T11:09:57+00:00",
       "id": "stolav_news",
       "items": 4,
       "name": "St. Olavs hospital – nyheter",
       "ok": true,
-      "seconds": 3.39
+      "seconds": 2.94
     },
     {
-      "checked": "2026-11-21T02:20:56+00:00",
-      "error": "HTTPSConnectionPool(host='styreportal.helse-midt.no', port=443): Max retries exceeded with url: /1001/SitePages/Saksdokumenter.aspx?web=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='styreportal.helse-midt.no', port=443) at 0x7041bb84ba10>, 'Connection to styreportal.helse-midt.no timed out. (connect timeout=30)'))",
+      "checked": "2026-11-21T11:10:27+00:00",
+      "error": "HTTPSConnectionPool(host='styreportal.helse-midt.no', port=443): Max retries exceeded with url: /1001/SitePages/Saksdokumenter.aspx?web=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='styreportal.helse-midt.no', port=443) at 0x75a859247a10>, 'Connection to styreportal.helse-midt.no timed out. (connect timeout=30)'))",
       "id": "stolav_board",
       "items": 0,
       "name": "St. Olavs hospital – styrepapirer",
@@ -19,92 +19,96 @@
       "seconds": 30.18
     },
     {
-      "checked": "2026-11-21T02:20:56+00:00",
+      "checked": "2026-11-21T11:10:28+00:00",
       "id": "hmn_news",
       "items": 0,
       "name": "Helse Midt-Norge – nyheter",
       "ok": true,
-      "seconds": 0.65
+      "seconds": 0.77
     },
     {
-      "checked": "2026-11-21T02:21:27+00:00",
+      "checked": "2026-11-21T11:10:59+00:00",
       "id": "hmn_board",
       "items": 0,
       "name": "Helse Midt-Norge – styrepapirer",
       "ok": true,
-      "seconds": 31.24
+      "seconds": 31.1
     },
     {
-      "checked": "2026-11-21T02:21:29+00:00",
+      "checked": "2026-11-21T11:11:00+00:00",
       "id": "hmn_postjournal",
       "items": 0,
       "name": "Helse Midt-Norge – offentlig postjournal",
       "ok": true,
-      "seconds": 1.42
+      "seconds": 0.9
     },
     {
-      "checked": "2026-11-21T02:21:29+00:00",
+      "checked": "2026-11-21T11:11:00+00:00",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Ahelsetilsynet.no+%28%22Orkdal+sjukehus%22+OR+%22Orkdal+DPS%22+OR+%22BUP+Orkanger%22%29&hl=no&gl=NO&ceid=NO:no",
       "id": "tilsyn_helsetilsynet",
-      "items": 1,
+      "items": 0,
       "name": "Helsetilsynet – tilsyn",
-      "ok": true,
-      "seconds": 0.2
+      "ok": false,
+      "seconds": 0.31
     },
     {
-      "checked": "2026-11-21T02:21:29+00:00",
+      "checked": "2026-11-21T11:11:00+00:00",
       "id": "tilsyn_statsforvalteren",
       "items": 0,
       "name": "Statsforvalteren i Trøndelag – tilsyn og vedtak",
       "ok": true,
-      "seconds": 0.17
+      "seconds": 0.15
     },
     {
-      "checked": "2026-11-21T02:21:29+00:00",
+      "checked": "2026-11-21T11:11:00+00:00",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Aukom.no+%28Orkdal+OR+%22St.+Olavs+hospital%22%29&hl=no&gl=NO&ceid=NO:no",
       "id": "ukom",
       "items": 0,
       "name": "Ukom – undersøkelser om pasientsikkerhet",
-      "ok": true,
-      "seconds": 0.24
+      "ok": false,
+      "seconds": 0.45
     },
     {
-      "checked": "2026-11-21T02:21:30+00:00",
+      "checked": "2026-11-21T11:11:01+00:00",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28site%3Aarbeidsplassen.nav.no+OR+site%3Awebcruiter.com%29+%28%22Orkdal+sjukehus%22+OR+%22KOVA+Orkdal%22+OR+%22Orkdal+DPS%22%29&hl=no&gl=NO&ceid=NO:no",
       "id": "jobs",
       "items": 0,
       "name": "Arbeidsplassen og Webcruiter – stillinger",
-      "ok": true,
-      "seconds": 0.26
+      "ok": false,
+      "seconds": 0.23
     },
     {
-      "checked": "2026-11-21T02:21:30+00:00",
+      "checked": "2026-11-21T11:11:01+00:00",
       "id": "doffin",
       "items": 0,
       "name": "Doffin – anskaffelser",
       "ok": true,
-      "seconds": 0.26
+      "seconds": 0.19
     },
     {
-      "checked": "2026-11-21T02:21:30+00:00",
+      "checked": "2026-11-21T11:11:01+00:00",
       "id": "waiting_times",
       "items": 0,
       "name": "Helsenorge – ventetider/behandlingssted",
       "ok": true,
-      "seconds": 0.23
+      "seconds": 0.26
     },
     {
-      "checked": "2026-11-21T02:21:31+00:00",
+      "checked": "2026-11-21T11:11:02+00:00",
       "id": "npe",
       "items": 0,
       "name": "Norsk pasientskadeerstatning – statistikk",
       "ok": true,
-      "seconds": 0.78
+      "seconds": 0.81
     },
     {
-      "checked": "2026-11-21T02:21:31+00:00",
+      "checked": "2026-11-21T11:11:02+00:00",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Aorkland.kommune.no+%28%22Orkdal+sjukehus%22+OR+%22Legevakten+i+Orkdalsregionen%22+OR+%22LiO%22%29&hl=no&gl=NO&ceid=NO:no",
       "id": "lio_orkland",
-      "items": 3,
+      "items": 0,
       "name": "Orkland kommune – legevakt og samhandling",
-      "ok": true,
-      "seconds": 0.24
+      "ok": false,
+      "seconds": 0.26
     }
   ]
 }
